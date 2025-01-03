@@ -421,5 +421,5 @@
  :file/name-format :triple-lowbar
  :editor/preferred-pasting-file? true
  :publishing/all-pages-public? true
- :feature/enable-journals? false
- :default-home {:page "perf.wiki"}}
+ :feature/enable-journals? true
+ :default-home {}}
